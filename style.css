@@ -115,6 +115,13 @@ ul {
     border-radius: 12px;
 }
 
+.Events img {
+    max-width: 100%;
+    
+    height: auto;
+    border-radius: 12px;
+}
+
 
 /* text section */
 .event_detail {
@@ -296,6 +303,20 @@ ul {
 
     }
 
+    .Events img{
+
+    
+        
+        position: relative;
+        width: 70%;
+        max-width: 100%;
+        
+
+
+
+
+    }
+
     .main {
         padding: 30px 20px;
         font-size: 20px;
@@ -372,6 +393,7 @@ ul {
 
     
 }
+
 
 
 
